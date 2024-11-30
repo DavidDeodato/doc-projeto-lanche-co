@@ -426,9 +426,7 @@ O fluxo foi projetado para:
 2. Promover **acesso rápido às informações mais relevantes**.  
 3. Facilitar **interações personalizadas**, como chats e notícias específicas para cada perfil.
 
----
 
-Caso tenha mais imagens ou queira complementações, posso continuar estruturando o restante da documentação.
 
 
 
